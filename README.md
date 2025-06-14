@@ -1,10 +1,8 @@
-# 🙏 Namaste, Welcome to our space!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron/orig.png" width="200" alt="meluron logo" />
+</p>
 
----
-
-I'm **Ankit Anand**, founder of **meluron**, *where utility drives innovation*.  
-
-I started **meluron** to create tools that add real value to people's lives and empower them to achieve more.
+I'm **Ankit Anand**, founder of **meluron**, *where utility drives innovation*. I started **meluron** to create tools that add real value to people's lives and empower them to achieve more.
 
 ---
 
