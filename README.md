@@ -1,18 +1,16 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron/orig.png" width="200" alt="meluron logo" />
-</p>
-
-I'm **Ankit Anand**, founder of **meluron**, *where utility drives innovation*. I started **meluron** to create tools that add real value to people's lives and empower them to achieve more.
-
----
-
-## 🎯 Our Mission  
-
-> To bring your ideas to life with technology.
-
----
-
-## 🚀 Explore our Labs  
+<table>
+  <tr>
+    <td width="200" valign="middle">
+      <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron/orig.png" width="250" alt="meluron logo" />
+    </td>
+    <td valign="middle">
+      I'm <strong>Ankit Anand</strong>, founder of <strong>meluron</strong>, <em>where utility drives innovation</em>.<br><br>
+      I started <strong>meluron</strong> to create tools that add real value to people's lives and empower them to achieve more.<br><br>
+      <strong>🎯 Our Mission</strong><br>
+      <em>To bring your ideas to life with technology.</em>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
