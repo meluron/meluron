@@ -2,7 +2,7 @@
   <tr>
     <td width="200" valign="middle">
       <a href="https://www.github.com/meluron" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron/orig.png" width="250" alt="meluron logo" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron/icon.png" width="250" alt="meluron logo" />
       </a>
     </td>
     <td valign="middle">
@@ -18,7 +18,7 @@
   <tr>
     <td width="100" align="center">
       <a href="https://www.github.com/meluron-toolbox" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/orig.png" width="150" alt="toolbox" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/icon.png" width="150" alt="toolbox" />
       </a>
     </td>
     <td>
@@ -29,7 +29,7 @@
   <tr>
     <td width="100" align="center">
       <a href="https://www.github.com/meluron-codecafe" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/orig.png" width="150" alt="codecafe" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/icon.png" width="150" alt="codecafe" />
       </a>
     </td>
     <td>
