@@ -6,7 +6,7 @@
       </a>
     </td>
     <td valign="middle">
-      Our mission is to make research more accessible.<br><br>
+      Making Research Accessible.<br><br>
       <strong>Founder</strong>: Ankit Anand
     </td>
   </tr>
