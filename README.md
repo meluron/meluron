@@ -7,6 +7,7 @@
     </td>
     <td valign="middle">
       Making Research Accessible.
+      <a href="https://meluron.github.io" target="_blank">🌐</a>
     </td>
   </tr>
 </table>
