@@ -6,10 +6,8 @@
       </a>
     </td>
     <td valign="middle">
-      I'm <strong>Ankit Anand</strong>, founder of <strong>meluron</strong>, <em>where utility drives innovation</em>.<br><br>
-      I started <strong>meluron</strong> to create tools that add real value to people's lives and empower them to achieve more.<br><br>
-      <strong>🎯 Our Mission</strong><br>
-      <em>To bring your ideas to life with technology.</em>
+      Our mission is to make research more accessible.<br><br>
+      <strong>Founder</strong>: Ankit Anand
     </td>
   </tr>
 </table>
@@ -23,7 +21,7 @@
     </td>
     <td>
       <a href="https://github.com/meluron-toolbox"><strong>toolbox</strong></a><br/>
-      <em>Home to our product codebases</em>
+      <em>A collection of tools that are ready to use.</em>
     </td>
   </tr>
   <tr>
@@ -34,7 +32,7 @@
     </td>
     <td>
       <a href="https://github.com/meluron-codecafe"><strong>codecafe</strong></a><br/>
-      <em>Home to our tutorial codebases</em>
+      <em>A collection of tutorials to teach how to build tools.</em>
     </td>
   </tr>
 </table>
