@@ -6,7 +6,7 @@
       </a>
     </td>
     <td valign="middle">
-      Making Research Accessible.
+      Building Audio Products.
       <a href="https://meluron.github.io" target="_blank">🌐</a>
     </td>
   </tr>
