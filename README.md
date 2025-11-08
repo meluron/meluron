@@ -6,7 +6,7 @@
       </a>
     </td>
     <td valign="middle">
-      Serving the Audio Community.
+      Serving the Research Community.
       <a href="https://meluron.github.io" target="_blank">🌐</a>
     </td>
   </tr>
