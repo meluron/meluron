@@ -6,7 +6,7 @@
       </a>
     </td>
     <td valign="middle">
-      <s>Bridge </s>Fill the gap.
+      Fill the gap.
       <a href="https://meluron.github.io" target="_blank">🌐</a>
     </td>
   </tr>
