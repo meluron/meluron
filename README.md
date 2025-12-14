@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <td width="150" valign="middle">
+    <td width="100" valign="middle">
       <a href="https://meluron.github.io" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logo/meluron/meluron-logo-nobg.png" width="250" alt="meluron logo" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logo/meluron/meluron-logo-nobg.png" width="100" alt="meluron logo" />
       </a>
     </td>
     <td valign="middle">
